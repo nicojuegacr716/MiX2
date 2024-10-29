@@ -1,2 +1,2 @@
-1.0.0
+1.0.1
 https://github.com/nicojuegacr716/MiX2/raw/refs/heads/WebServer/MIX.zip?download=
